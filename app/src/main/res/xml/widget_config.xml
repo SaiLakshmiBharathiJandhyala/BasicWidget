@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widegt_design"
+    android:minWidth="150dp"
+    android:minHeight="150dp"
+    android:minResizeWidth="100dp"
+    android:minResizeHeight="100dp"
+    android:previewImage="@drawable/icon"
+    android:updatePeriodMillis="17228"
+    android:widgetCategory="home_screen">
+
+</appwidget-provider>
