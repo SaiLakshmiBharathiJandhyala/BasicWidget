@@ -17,9 +17,15 @@ Widget is an application, or a component of an interface, that enables a user to
 
 >SharedPreferences are used in passing data from activity to widget the User's Choice.
 
-> The use of 'Pending Intent' is clearly shown in this app.
+> The use of 'Pending Intent' has been done to open app from the widget.
+
+
 
 	
+> Note
+
+
+    >The project will soon use todos to fix the issue of code readability 
 
 	
 
