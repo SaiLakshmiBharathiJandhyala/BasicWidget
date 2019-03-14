@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Widgets</string>
+    <string-array name="myWidgetList">
+        <!--Items in your widget list-->
+        <!--TODO ADD YOUR SPECIFIC LIST ELEMENTS-->
+        <item>Calendar</item>
+        <item>Calculator</item>
+        <item>Camera</item>
+    </string-array>
+
 </resources>
